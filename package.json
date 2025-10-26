@@ -25,6 +25,7 @@
     "@types/bcrypt": "^6.0.0",
     "@types/pg": "^8.15.5",
     "bcrypt": "^6.0.0",
+    "dotenv": "^16.0.0",
     "passport": "^0.6.0",
     "passport-jwt": "^4.0.1",
     "pg": "^8.16.3",
@@ -34,7 +35,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.18.0",
-    "@nestjs/cli": "^10.0.0",
+    "@nestjs/cli": "^11.0.10",
     "@nestjs/schematics": "^10.0.0",
     "@nestjs/testing": "^10.0.0",
     "@types/express": "^5.0.0",
